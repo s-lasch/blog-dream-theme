@@ -2,8 +2,11 @@ baseurl = "https://example.com"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "Hugo Theme Dream"
-themedir = "../.."
-theme = "Dream"
+
+[module]
+  [[module.imports]]
+    path = "github.com/g1eny0ung/hugo-theme-dream"
+    disable=false
 
 # [services]
 # [services.disqus]
