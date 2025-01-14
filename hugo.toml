@@ -11,7 +11,7 @@ theme = "dream"
 # ID = ""
 
 [params]
-# zenMode = true
+zenMode = true
 
 lightTheme = "emerald"
 darkTheme = "forest"
