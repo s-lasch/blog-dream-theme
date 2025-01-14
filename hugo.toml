@@ -2,8 +2,8 @@ baseurl = "https://example.com"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "Hugo Theme Dream"
-themedir = "./"
-theme = "dream"
+themedir = "../.."
+theme = "Dream"
 
 # [services]
 # [services.disqus]
